@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1098361411795",
+    "project_id": "notealiapp",
+    "storage_bucket": "notealiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098361411795:android:b04dd43daf137f40969c26",
+        "android_client_info": {
+          "package_name": "com.example.noteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098361411795-sdq0i9p4cbcoljb4t1007hi99b9eu6ut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.noteapp",
+            "certificate_hash": "6ae186b7fc5f6780740f0726c690f400e8bfad0b"
+          }
+        },
+        {
+          "client_id": "1098361411795-ngub262tkd0p6j4s05mr3bhis4aniag2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWOvj8cU2gdrcaSmCarrUxw4Oy3RyW9Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098361411795-ngub262tkd0p6j4s05mr3bhis4aniag2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
